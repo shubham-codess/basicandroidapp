@@ -1,7 +1,6 @@
 import kivy
 from kivy.app import App
 from kivy.uix.label import Label
-from matplotlib.pyplot import text
 from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
 from kivy.uix.button import Button
